@@ -1,0 +1,13 @@
+development:
+  SOCKET_PORT:
+   INITIAL:
+
+  SOCKET_ADDRESS:
+   INITIAL:
+
+production:
+  SOCKET_PORT:
+   INITIAL:
+
+  SOCKET_ADDRESS:
+   INITIAL:

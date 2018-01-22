@@ -1,0 +1,31 @@
+GEM
+  remote: https://rubygems.org/
+  specs:
+    bindata (2.4.1)
+    byebug (9.1.0)
+    eventmachine (1.2.5)
+    figaro (1.1.1)
+      thor (~> 0.14)
+    foreman (0.84.0)
+      thor (~> 0.19.1)
+    puma (3.11.0)
+    rack (2.0.3)
+    thor (0.19.4)
+
+PLATFORMS
+  ruby
+
+DEPENDENCIES
+  bindata
+  byebug
+  eventmachine
+  figaro
+  foreman
+  puma
+  rack
+
+RUBY VERSION
+   ruby 2.4.1p111
+
+BUNDLED WITH
+   1.16.0

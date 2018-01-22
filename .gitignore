@@ -1,0 +1,8 @@
+.idea/
+.byebug_history
+
+log/*.log
+
+tmp/pids/*.pid
+tmp/sockets/*.sock
+config/application.yml
